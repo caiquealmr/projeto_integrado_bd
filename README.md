@@ -2,17 +2,21 @@
 
 * **Participantes:**
 
-**Aluno1:** Ana Julia Firme
-**Matrícula1:** 202307837
+  **Aluno 1:** Ana Julia Firme
 
-**Aluno2:** Caíque Almeida Amaral
-**Matrícula2:** 202305874
+  **Matrícula 1:** 202307837
 
-**Aluno3** Eduardo Tonani Tavares
-**Matrícula3:** 202305773
+  **Aluno 2:** Caíque Almeida Amaral
 
-**Aluno4** Elder Alexandre de Oliveira Chiconi
-**Matrícula4:** 202307420
+  **Matrícula 2:** 202305874
+
+  **Aluno 3** Eduardo Tonani Tavares
+
+  **Matrícula 3:** 202305773
+
+  **Aluno 4** Elder Alexandre de Oliveira Chiconi
+
+  **Matrícula 4:** 202307420
 
 * **Professor:** Abrantes Araujo Silva Filho
 * **Turma:** SI1N
