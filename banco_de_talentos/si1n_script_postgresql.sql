@@ -96,6 +96,7 @@ assunto                            VARCHAR(100) NOT NULL,
 descricao                          VARCHAR(200) NOT NULL,
 data_pedido                        DATE NOT NULL,
 talento_id                         NUMERIC(100) NOT NULL,
+user_id                            NUMERIC(100) NOT NULL,
 CONSTRAINT pedidodetalento_id      PRIMARY KEY (pedido_id)
 );
 
